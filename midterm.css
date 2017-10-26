@@ -67,7 +67,12 @@ a:hover
 	}
 
 
-	#references {
+	#column1 {
+		float:left;
+		width: 50%;
+	}
 
-		column-count: 2
+	#column2 {
+		float: right;
+		width: 50%;
 	}
